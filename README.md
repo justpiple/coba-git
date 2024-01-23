@@ -1,1 +1,6 @@
-# Code Goes Brrrr
+# Dokumentasi Proyek
+
+to run:
+```bash
+npm start
+```
